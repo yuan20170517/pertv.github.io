@@ -6,7 +6,7 @@ https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视",CCTV-3 综艺
-http://loc.sportsontheweb.net/yfy.php?id=cctv3
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv38m/8000000/mnf.m3u8
 
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV-4 中文国际
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
