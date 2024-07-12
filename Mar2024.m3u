@@ -6,7 +6,7 @@ https://z02.ubtvfans.com/live/rx1/200/e5159301cd4aaf84a7f39915d463a106/index.m3u
 https://z02.ubtvfans.com/live/rx1/201/72c3320633f511d538db55c14a9fb809/index.m3u8
 
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视",CCTV-3 综艺
-https://z02.ubtvfans.com/live/rx1/2808/184ae3594c7818808f852cc6988b4525/index.m3u8
+http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv3hd/3000/index.m3u8?&encrypt=
 
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV-4 中文国际
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
