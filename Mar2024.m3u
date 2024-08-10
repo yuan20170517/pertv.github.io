@@ -14,19 +14,19 @@ http://183.184.150.84:8004/rtp/226.0.2.21:8080
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV-5 体育
 http://183.184.150.84:8004/rtp/226.0.2.22:8088
 
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1HD" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1 综合
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1HD" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1HD 综合
 http://183.184.150.84:8004/rtp/226.0.2.153:9136
 
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2HD" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV-2 财经
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2HD" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV-2HD 财经
 http://183.184.150.84:8004/rtp/226.0.2.154:9144
 
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3HD" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视",CCTV-3 综艺
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3HD" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视",CCTV-3HD 综艺
 http://183.184.150.84:8004/rtp/226.0.2.208:9576
 
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4HD" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV-4 中文国际
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4HD" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV-4HD 中文国际
 http://183.184.150.84:8004/rtp/226.0.2.156:9160
 
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5HD" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV-5 体育
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5HD" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV-5HD 体育
 http://183.184.150.84:8004/rtp/226.0.2.209:9584
 
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
