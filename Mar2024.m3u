@@ -15,46 +15,46 @@ http://183.184.150.84:8004/rtp/226.0.2.21:8080
 http://183.184.150.84:8004/rtp/226.0.2.22:8088
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1HD" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1HD 综合
-http://183.184.150.84:8004/rtp/226.0.2.153:9136
+http://ikuai.zlsip.top:4022/rtp/239.3.1.129:8008
 
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2HD" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV-2HD 财经
-http://183.184.150.84:8004/rtp/226.0.2.154:9144
+http://ikuai.zlsip.top:4022/rtp/239.3.1.60:8084
 
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3HD" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视",CCTV-3HD 综艺
-http://183.184.150.84:8004/rtp/226.0.2.208:9576
+http://ikuai.zlsip.top:4022/rtp/239.3.1.172:8001
 
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4HD" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV-4HD 中文国际
-http://183.184.150.84:8004/rtp/226.0.2.156:9160
+http://ikuai.zlsip.top:4022/rtp/239.3.1.105:8092
 
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5HD" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV-5HD 体育
-http://183.184.150.84:8004/rtp/226.0.2.209:9584
+http://ikuai.zlsip.top:4022/rtp/239.3.1.173:8001
 
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
-http://183.184.150.84:8004/rtp/226.0.2.168:9256
+http://ikuai.zlsip.top:4022/rtp/239.3.1.130:8004
 
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视",CCTV-6 电影
-http://183.184.150.84:8004/rtp/226.0.2.210:9592
+http://ikuai.zlsip.top:4022/rtp/239.3.1.174:8001
 
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视",CCTV-7 国防军事
-http://183.184.150.84:8004/rtp/226.0.2.159:9184
+http://ikuai.zlsip.top:4022/rtp/239.3.1.61:8104
 
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视",CCTV-8 电视剧
-http://183.184.150.84:8004/rtp/226.0.2.211:9600
+http://ikuai.zlsip.top:4022/rtp/239.3.1.175:8001
 
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视",CCTV-9 纪录
-http://183.184.150.84:8004/rtp/226.0.2.161:9200
+http://ikuai.zlsip.top:4022/rtp/239.3.1.62:8112
 
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视",CCTV-10 科教
-https://z02.ubtvfans.com/live/rx1/210/a28130d460715803b16001174421cefd/index.m3u8
+http://ikuai.zlsip.top:4022/rtp/239.3.1.63:8116
 
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视",CCTV-11 戏曲
-http://183.184.150.84:8004/rtp/226.0.2.162:9208
+http://ikuai.zlsip.top:4022/rtp/239.3.1.152:8120
 
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视",CCTV-12 社会与法
-https://z02.ubtvfans.com/live/rx1/212/b617c31586b3a320062ec62c7b4e93d5/index.m3u8
+http://ikuai.zlsip.top:4022/rtp/239.3.1.64:8124
 
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",CCTV-13 新闻
-https://z02.ubtvfans.com/live/rx1/213/4985ed10e25b72869efa7f2f7b839f1a/index.m3u8
+http://ikuai.zlsip.top:4022/rtp/239.3.1.124:8128
 
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视",CCTV-14 少儿
 https://tv.iill.top/live/cctv14
